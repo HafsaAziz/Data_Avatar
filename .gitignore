@@ -16,7 +16,6 @@ ENV/
 # Output files
 extracted_data.json
 chatbot_training_data.json
-markdown_output/
 
 # IDE
 .vscode/

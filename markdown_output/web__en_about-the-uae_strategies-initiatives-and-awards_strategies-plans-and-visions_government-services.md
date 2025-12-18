@@ -1,0 +1,47 @@
+# UAE Strategy for Artificial Intelligence | The Official Platform of the UAE Government
+**Source URL:** https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/strategies-plans-and-visions/government-services-and-digital-transformation/uae-strategy-for-artificial-intelligence
+---
+
+## UAE Strategy for Artificial Intelligence
+
+The UAE Strategy for Artificial Intelligence aims to achieve the objectives of UAE Centennial 2071, boost government performance at all levels, use an integrated smart digital system that can overcome challenges and provide quick efficient solutions, make the UAE the first in the field of AI investments in various sectors and create new vital market with high economic value.
+
+- About The UAE
+- Strategies, policies, initiatives and awards
+- Strategies and visions
+- Strategies for government services and digital transformation
+- UAE Strategy for Artificial Intelligence
+
+uae-strategy-for-artificial-intelligence
+In October 2017, the UAE Government launched ‘UAE Strategy for Artificial Intelligence (AI)’. This marks the post-mobile government phase which will rely on various future services, sectors and infrastructure projects. The strategy is first of its kind in the region and the world and it aims to:
+
+achieve the objectives of UAE Centennial 2071
+boost government performance at all levels
+use an integrated smart digital system that can overcome challenges and provide quick efficient solutions
+make the UAE the first in the field of AI investments in various sectors
+create new vital market with high economic value.
+Sectors
+
+The strategy will cover the following sectors:
+
+transport – to reduce accidents and cut operational costs
+health – to minimise chronic and dangerous diseases
+space – to help conduct accurate experiments, reduce rate of costly mistakes
+renewable energy – to manage facilities
+water – to conduct analysis and studies to provide water sources
+technology – to increase productivity and help with general spending
+education – to cut costs and enhance desire for education
+environment – to increase forestation rate
+traffic – to reduce accidents and traffic jams and draw more effective traffic policies.
+Themes
+
+The AI strategy has five themes:
+
+the formation of the UAE AI Council
+workshops, programmes, initiatives and field visits to government bodies
+develop capabilities and skills of all staff operating in the field of technology and organise training courses for government officials
+provide all services via AI and the full integration of AI into medical and security services
+launch leadership strategy and issue a government law on the safe use of AI.
+Read more about artificial intelligence in the UAE- Minister of State for Artificial Intelligence, Digital Economy and Remote Work Applications Office.
+
+Read news coverage relating to UAE Strategy for Artificial Intelligence (AI) on WAM.
